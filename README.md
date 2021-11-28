@@ -1,16 +1,13 @@
-<a href="#"><img align="center" width="85%" height="auto" src="https://wew-tech.com/wewtech/assets/process5.gif"/></a>
+<p><a href = "https://www.linkedin.com/in/rajko-vukovic/"><img align="center" src="https://wew-tech.com/wewtech/assets/process5.gif" width="auto" height="auto" /></a></p>
 
 
 <h1 align="center">Hi, I'm Rajko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">I'm a passionate Software Developer in Test (SDET) from Serbia.</h3>
 
-<h1></h1>
+
 
 ## 🙋‍♂️ About Me:
-<p>
-</p>
-
 
 ✅ Writing, executing, analyzing, and maintaining test automation script and test cases (Selenium / Cypress / Appium)
 
