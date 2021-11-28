@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://wew-tech.com/wewtech/assets/process5.gif" height="175px"/></a>
+<a href="#"><img align="center" width="85%" height="auto" src="https://wew-tech.com/wewtech/assets/process5.gif"/></a>
 
 
 <h1 align="center">Hi, I'm Rajko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
@@ -7,27 +7,37 @@
 
 <h1></h1>
 
-
-
-
 ## 🙋‍♂️ About Me:
 <p>
 </p>
 
 
 ✅ Writing, executing, analyzing, and maintaining test automation script and test cases (Selenium / Cypress / Appium)
+
 ✅ Setting-up a new Test Automation Environment
+
 ✅ Identifying, documenting, and reporting issues via defect tracking tools (JIRA / Redmine / TestLink)
+
 ✅ Performing manual and automated testing, unit testing, integration testing, functional testing, regression testing, exploratory testing, cross-browser testing, GUI testing, etc.
+
 ✅ Proposed usability improvements for web, mobile, and desktop applications that are in testing scope
+
 ✅ Building and running SQL queries and testing procedures against large databases (PL/SQL)
+
 ✅ Knowing tools, concepts, and methodologies of QA
+
 ✅ Hands-on experience with all phases of Software Test Life Cycle (STLC) also well versed with Agile/Scrum methodologies
+
 ✅ Having experience with writing API test scripts (Postman)
+
 ✅ Familiarity with version control tools (Git) and code management platforms (GitHub / GitLab)
+
 ✅ Building CI/CD pipelines and jobs (Jenkins / GitLab CI/CD)
+
 ✅ Having experience with programming languages (Java / JavaScript / Python) and writing automation test scripts in them
+
 ✅ Fluent in English (speaking and writing)
+
 ✅ Attention to details
 
 <h1></h1>
@@ -69,4 +79,3 @@
 rajo-vukovic/rajo-vukovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
