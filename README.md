@@ -1,14 +1,12 @@
-<p><a href = "https://www.linkedin.com/in/rajko-vukovic/"><img align="center" src="https://wew-tech.com/wewtech/assets/process5.gif" width="auto" height="auto" /></a></p>
-
+<p align="center"><a href = "https://www.linkedin.com/in/rajko-vukovic/"><img class="center" src="https://wew-tech.com/wewtech/assets/process5.gif" width="auto" height="auto" /></a></p>
 
 <h1 align="center">Hi, I'm Rajko <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-<h3 align="center">I'm a passionate Software Developer in Test (SDET) from Serbia.</h3>
+<h3 align="center">I'm a passionate Software Developer in Test (SDET) from Novi Sad, Serbia.</h3>
+<h1></h1>
 
-
-
-## 🙋‍♂️ About Me:
-
+<h3 align="center">🙋‍♂️ About Me:</h3>
+<p>
 ✅ Writing, executing, analyzing, and maintaining test automation script and test cases (Selenium / Cypress / Appium)
 
 ✅ Setting-up a new Test Automation Environment
@@ -36,10 +34,9 @@
 ✅ Fluent in English (speaking and writing)
 
 ✅ Attention to details
+</p>
 
-<h1></h1>
-
-## 🚀 Languages and Tools:
+<h3 align="center"> 🚀 Languages and Tools:</h3>
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -53,9 +50,9 @@
     <a href="https://testng.org/doc" target="_blank"> <img src="https://i2.wp.com/blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png" alt="testng" width="45" height="45"/> </a> 
     <a href="https://www.techonthenet.com/oracle/index.php" target="_blank"> <img src="https://my.trocaire.edu/app/uploads/2016/12/pl-sql.png" alt="pl/sql" width="45" height="45"/> </a> 
     <a href="https://www.atlassian.com/software/jira" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/02/Jira-Logo.png" alt="jira" width="75" height="45"/> </a>
-    <a href="https://www.redmine.org" target="_blank"> <img src="https://www.redmineup.com/cms/assets/thumbnail//38122/600/redmine_logo.png" alt="redmine" width="75" height="45"/> </a>
-    <a href="https://testlink.org" target="_blank"> <img src="https://miro.medium.com/max/1400/1*ezeaO1L6xMh55p00csxPfw.png" alt="testlink" width="90" height="45"/> </a>
-    <a href="https://github.com" target="_blank"> <img src="https://www.kindpng.com/picc/m/128-1280187_github-logo-png-github-transparent-png.png" alt="github" width="90" height="45"/> </a> 
+    <a href="https://www.redmine.org" target="_blank"> <img src="https://www.redmineup.com/cms/assets/thumbnail//38122/600/redmine_logo.png" alt="redmine" width="100" height="45"/> </a>
+    <a href="https://testlink.org" target="_blank"> <img src="https://miro.medium.com/max/1400/1*ezeaO1L6xMh55p00csxPfw.png" alt="testlink" width="100" height="45"/> </a>
+    <a href="https://github.com" target="_blank"> <img src="https://www.kindpng.com/picc/m/128-1280187_github-logo-png-github-transparent-png.png" alt="github" width="95" height="45"/> </a> 
     <a href="https://about.gitlab.com" target="_blank"> <img src="https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-gray-rgb.jpg" alt="gitlab" width="75" height="45"/> </a> 
     <a href="https://www.jetbrains.com/idea" target="_blank"> <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="ideaintellij" width="45" height="45"/> </a> 
     <a href="https://www.eclipse.org" target="_blank"> <img src="https://img.utdstc.com/icon/3c7/fcf/3c7fcf4930fa9402c22cee35e03fe9fcf9e8e47c9381d6b9e6922d71ee2e067a:200" alt="eclipse" width="45" height="45"/> </a> 
@@ -66,8 +63,8 @@
     
 </p>
 <h1></h1>
-<p align="center", style="font-size:4vw">
-🔗 My LinkedIn page: <a href = "https://www.linkedin.com/in/rajko-vukovic/"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45"/></a>
+<p align="center", style="font-size:5vw">
+<h3 align="center">🔗 My LinkedIn page: <a href = "https://www.linkedin.com/in/rajko-vukovic/"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="45" height="45"/></a></h3>
 </p>
 
 <h1></h1>
